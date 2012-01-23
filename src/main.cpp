@@ -2,6 +2,7 @@
 #include <iostream>
 
 #include "httpserver.hpp"
+#include "muckyhands.hpp"
 
 
 namespace po = boost::program_options;
