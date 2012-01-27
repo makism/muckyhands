@@ -8,6 +8,7 @@
 
 namespace http = boost::network::http;
 namespace uri = boost::network::uri;
+namespace network = boost::network;
 
 
 struct HttpHandler;
